@@ -5,6 +5,8 @@ Full Stack Software Engineer
 ----------------------------
 
 Experienced sofware engineer with a talent for problem-solving, a proven track record of delivering high-quality sof- ware products, and a passion for staying updated with new technologies.
+<img
+src="./dev.gif" />
 
 * 🌍  I'm based in Athens, Greece
 * 🖥️  See my portfolio at [My Website](http://alexandrosgkougkoulis.tech/)
